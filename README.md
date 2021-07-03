@@ -21,7 +21,7 @@ george: yes, it was purple, i liked it, i dont actually recall considering the b
 jerry: oh, you dont recall? 
 
 ## The model
-Neurell netowrk using LSTM layers
+Neural netowrk using LSTM layers
 
 ## The Requirements 
 Python3.6
